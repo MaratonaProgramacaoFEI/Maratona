@@ -10,6 +10,7 @@ int main(){
     Função front(): Pega o valor da frente;
     Função back(): Pega o elemento de trás;
     Função size(): Retorna o tamanho da queue;
+    Note que ao printar a queue, os elementos sao deletados depois de printados;
     */
 
     //Criando a queue:
