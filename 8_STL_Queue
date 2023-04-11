@@ -1,5 +1,5 @@
 #include <iostream>
-#include <queue> //biblioteca de set;
+#include <queue> //biblioteca de queue;
 using namespace std;
 
 int main(){
