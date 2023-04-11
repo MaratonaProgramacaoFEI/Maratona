@@ -1,5 +1,5 @@
 #include <iostream>
-#include <algorithm> //para usar reverse;
+#include <algorithm> //para usar reverse e sort;
 using namespace std;
 
 int main(){
