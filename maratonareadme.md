@@ -7,3 +7,10 @@ Recomendamos fortemente os seguintes sites para busca de mais informações e fu
 3. StackOverflow: https://stackoverflow.com/;
 4. https://drive.google.com/drive/folders/1FNfbceh7LgOSrawfbKnGcb-0pBT8m6Hn?usp=share_link (Drive com slides);
 5. https://www.youtube.com/@maratonadeprogramacaofei2273 (Canal no YouTube com aulas);
+
+Principais IDE's para C++:
+1. CLion;
+2. DevC++;
+3. CodeBlocks;
+4. VisualStudio;
+5. Replit (é uma IDE Universal Online);
