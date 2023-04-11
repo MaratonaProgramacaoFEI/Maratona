@@ -9,7 +9,7 @@ int main(){
   double é um float com o dobro de capacidade de armazenamento. EX: 23.23231231;
   char: é um caractere. EX: 'A', 't';
   string: é um conjunto de caracteres. EX: "Isso eh uma string", "string";
-  Note que ao usar char devemos usar aspas simples, string usamos aspas duplas;
+  Note que ao implementar char devemos usar aspas simples, string usamos aspas duplas;
   */
   
   int inteiro = 10;
