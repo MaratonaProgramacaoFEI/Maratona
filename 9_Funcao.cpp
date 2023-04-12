@@ -1,4 +1,4 @@
-//METODO1:
+//METODO1 - definindo toda a funcao antes:
 
 #include <iostream>
 using namespace std;
@@ -30,7 +30,7 @@ int main(){
     soma(); //chama a funcao, o codigo presente nela eh executado;
 }
 
-//METODO2:
+//METODO2 - definindo primeiro e a funcao depois:
 
 #include <iostream>
 using namespace std;
